@@ -20,18 +20,7 @@ Benha University
 - Collaborating with UX designers to transform wireframes into interactive interfaces
 - Optimizing components for maximum performance across devices
 
-## 🌟 Featured Projects
-1. **[Project Name]** - Brief description of project and technologies used  
-   `React` `Redux` `[Other Tech]`  
-   [Live Demo](#) • [Source Code](#)
 
-2. **[Project Name]** - Brief description of project and technologies used  
-   `React` `TypeScript` `[Other Tech]`  
-   [Live Demo](#) • [Source Code](#)
-
-3. **[Project Name]** - Brief description of project and technologies used  
-   `Next.js` `[Other Tech]`  
-   [Live Demo](#) • [Source Code](#)
 
 ## 📬 Contact Me
 - **Email**: moatz0741@gmail.com
