@@ -8,7 +8,7 @@
 <h3 align="center">🎓 Front-End Developer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=435&lines=Problem+solver+%F0%9F%A7%A0;Building+Modern+Web+UIs+%F0%9F%92%BB;React+Developer+💜;Creative+Front-End+Engineer+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Problem+Solver+🧠;Building+Modern+Web+UIs+💻;React+Developer+💜;Creative+Front-End+Engineer+✨" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,8 +16,8 @@
 ## 🧠 About Me
 <p align="center">
   🧑‍🎓 Graduate from <strong>Faculty of Computers and Artificial Intelligence – Benha University</strong><br/>
-  💻 Specialized in <strong>React.js</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Tailwind CSS</strong><br/>
-  🌱 Currently learning <strong>Next.js</strong> and <strong>advanced React patterns</strong><br/>
+  💻 Specialized in <strong>React.js</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>Tailwind CSS</strong><br/>
+  🌱 Currently learning <strong>advanced React patterns</strong><br/>
   ⚡ Passionate about creating responsive and user-friendly web interfaces
 </p>
 
@@ -25,10 +25,10 @@
 
 ## 🧰 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vscode,git,github" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,nextjs,npm,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vscode,git,github,bootstrap,npm,nodejs" />
 </p>
 
+---
 
 ## 📈 GitHub Stats
 <p align="center">
