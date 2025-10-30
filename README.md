@@ -19,7 +19,7 @@
   />
 </p>
 
-<div style="width: 100%; height: 10px; background-color: #d60ad9;"></div>
+
     
     
 
