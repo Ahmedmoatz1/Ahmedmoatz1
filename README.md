@@ -1,3 +1,4 @@
+```markdown
 ## Hi there! 👋
 
 I'm Ahmed Moatz, a passionate developer constantly exploring the vast world of programming. I'm excited about building beautiful and functional applications!
@@ -19,11 +20,9 @@ I am a software developer with a keen interest in web technologies, particularly
 
 ## Recent Activity
 
-<!--START_SECTION:activity-->
 - 🔄 Pushed updates to [Ahmedmoatz1](https://github.com/Ahmedmoatz1/Ahmedmoatz1)
 - 🔄 Updated [css-assignments-elzero.org](https://github.com/Ahmedmoatz1/css-assignments-elzero.org)
 - 🔄 Contributed to [javaprocessimage1](https://github.com/Ahmedmoatz1/javaprocessimage1)
-<!--END_SECTION:activity-->
 
 ## Connect with Me
 
@@ -31,11 +30,4 @@ I am a software developer with a keen interest in web technologies, particularly
 - 💼 **LinkedIn:** [Ahmed Moatz](https://www.linkedin.com/in/ahmed-moatz-a81b4a352)
 - 📱 **Phone:** +20 1013818318
 - 🌐 **GitHub:** [Ahmedmoatz1](https://github.com/Ahmedmoatz1)
-
----
-
-<div align="center">
-
-### 🚀 Let's Build Something Amazing Together!
-
-</div>
+```
