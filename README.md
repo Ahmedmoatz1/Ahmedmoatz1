@@ -32,16 +32,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vscode,git,github,bootstrap,npm,nodejs" />
 </p>
 
----
-
-## 💜 Highlighted Quote
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hey+I'm+Ahmed+Moatz+Mahmod+💜;React+Developer+💻;Front-End+Engineer+✨;Creative+Problem+Solver+🧠;Lifelong+Learner+📚" 
-    alt="Bold Typing SVG" 
-    style="font-weight:bold;"
-  />
-</p>
 
 ---
 
@@ -75,12 +65,7 @@
   📧 <strong>moatz0742@gmail.com</strong>
 </p>
 
----
 
-## 🚀 Visitor Counter
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Ahmedmoatz1/count.svg" />
-</p>
 
 ---
 
