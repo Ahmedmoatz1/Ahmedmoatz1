@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="image.png" alt="Ahmed Moatz Banner" style="width:100%; border-radius:102px;" />
+  <img src="image1.png" alt="Ahmed Moatz Banner" style="width:100%; border-radius:102px;" />
 </p>
 
 <!-- PROFILE HEADER -->
