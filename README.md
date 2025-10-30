@@ -1,257 +1,57 @@
-<!-- README.md -->
+<body style="background:#000; color:#fff; font-family:Poppins, sans-serif; text-align:center; line-height:1.6; margin:0;">
 
-<body>
-  <style>
-    body {
-      background: #000;
-      color: #fff;
-      font-family: 'Poppins', sans-serif;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
-      animation: fadeIn 1.5s ease-in;
-    }
+<!-- 🔥 BANNER -->
+<img src="banner.png" alt="Ahmed Moatz Banner" style="width:100%; border-radius:12px;"/>
 
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-        transform: translateY(15px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
+<!-- PROFILE HEADER -->
+<h1 style="color:#0ea5e9; margin-top:20px;">👋 Hey, I'm Ahmed Moatz</h1>
+<h3 style="color:#ccc;">💻 Front-End Developer | AI & Data Enthusiast</h3>
 
-    h1, h2, h3 {
-      margin: 0;
-    }
+<p>
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=435&lines=Crafting+Modern+UIs+⚡;Passionate+About+AI+%26+Innovation+🧠" alt="Typing SVG" />
+</p>
 
-    /* ===== Banner ===== */
-    .banner img {
-      width: 100%;
-      height: 300px;
-      object-fit: cover;
-      border-radius: 0;
-    }
+---
 
-    /* ===== Header ===== */
-    .header {
-      background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%);
-      padding: 40px 20px;
-      text-align: center;
-      animation: fadeIn 2s ease;
-    }
+## 🧠 About Me
+<p style="color:#bbb; text-align:left; width:70%; margin:auto;">
+I'm a passionate <b>Front-End Developer</b> from <b>Benha University</b> who loves creating modern, responsive, and visually appealing interfaces.  
+Currently exploring advanced <b>React.js patterns</b> and combining <b>AI</b> with front-end technologies to build smart solutions.
+</p>
 
-    .header h1 {
-      font-size: 3rem;
-      margin-bottom: 10px;
-      background: linear-gradient(45deg, #8B5CF6, #A78BFA);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      font-weight: bold;
-    }
+---
 
-    .header h3 {
-      font-size: 1.5rem;
-      color: #A78BFA;
-      margin-bottom: 20px;
-      font-weight: 300;
-    }
+## 📞 Contact Info
 
-    /* ===== About Me ===== */
-    .about {
-      background: #0F0F0F;
-      padding: 30px;
-      border-radius: 15px;
-      border-left: 5px solid #8B5CF6;
-      margin: 20px;
-      animation: fadeIn 2s ease;
-    }
+<table align="center" style="margin:auto; border:2px solid #0ea5e9; border-radius:10px; padding:10px; width:70%;">
+  <tr><td style="text-align:left; color:#0ea5e9;">📍 Address</td><td style="text-align:right;">Estanha - El-Bagour Center - Menoufia Governorate</td></tr>
+  <tr><td style="text-align:left; color:#0ea5e9;">📧 Email</td><td style="text-align:right;">moatz0742@gmail.com</td></tr>
+  <tr><td style="text-align:left; color:#0ea5e9;">📱 Phone</td><td style="text-align:right;">01013818318</td></tr>
+  <tr><td style="text-align:left; color:#0ea5e9;">🎂 Birthday</td><td style="text-align:right;">May 15</td></tr>
+  <tr><td style="text-align:left; color:#0ea5e9;">🔗 LinkedIn</td><td style="text-align:right;"><a href="https://linkedin.com/in/ahmed-moatz-a81b4a352" style="color:#0ea5e9;">linkedin.com/in/ahmed-moatz-a81b4a352</a></td></tr>
+</table>
 
-    .about span {
-      color: #A78BFA;
-      font-weight: 500;
-    }
+---
 
-    /* ===== Contact Section ===== */
-    .contact {
-      background: #000;
-      padding: 30px;
-      border-radius: 15px;
-      margin: 20px;
-      animation: fadeIn 2.5s ease;
-    }
+## 🌐 Connect With Me
 
-    .contact-links {
-      text-align: center;
-      margin-bottom: 25px;
-    }
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-moatz-a81b4a352" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:moatz0742@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+201013818318">
+    <img src="https://img.shields.io/badge/-Phone-0ea5e9?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+</p>
 
-    .contact-links a {
-      display: inline-block;
-      margin: 5px;
-      padding: 12px 20px;
-      background: linear-gradient(45deg, #8B5CF6, #7C3AED);
-      color: white;
-      text-decoration: none;
-      border-radius: 25px;
-      font-weight: 600;
-      transition: all 0.3s ease;
-    }
+---
 
-    .contact-links a:hover {
-      transform: scale(1.05);
-      background: linear-gradient(45deg, #7C3AED, #8B5CF6);
-    }
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer"/>
+</p>
 
-    .contact-info {
-      background: #1a1a1a;
-      padding: 25px;
-      border-radius: 10px;
-      border: 1px solid #8B5CF6;
-      font-size: 0.95rem;
-    }
-
-    .contact-info span {
-      color: #A78BFA;
-    }
-
-    /* ===== Tech Stack ===== */
-    .tech {
-      background: #0F0F0F;
-      padding: 40px;
-      border-radius: 15px;
-      margin: 20px;
-      text-align: center;
-      animation: fadeIn 3s ease;
-    }
-
-    .tech-stack {
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-      gap: 15px;
-      margin-top: 20px;
-    }
-
-    .tech-item {
-      background: #000;
-      padding: 15px;
-      border-radius: 10px;
-      border: 2px solid #8B5CF6;
-      min-width: 70px;
-      text-align: center;
-      transition: 0.3s;
-    }
-
-    .tech-item span {
-      color: #8B5CF6;
-      font-weight: bold;
-    }
-
-    .tech-item:hover {
-      background: #8B5CF6;
-      color: #fff;
-      transform: scale(1.05);
-    }
-
-    /* ===== Footer ===== */
-    .footer {
-      background: linear-gradient(45deg, #000000 0%, #8B5CF6 100%);
-      padding: 50px 20px;
-      text-align: center;
-      margin-top: 40px;
-      position: relative;
-      overflow: hidden;
-      animation: fadeIn 3.5s ease;
-    }
-
-    .footer h3 {
-      color: #fff;
-      font-size: 1.5rem;
-      margin-bottom: 20px;
-      z-index: 2;
-      position: relative;
-    }
-
-    .footer p {
-      color: #E0E0E0;
-      font-size: 1rem;
-      position: relative;
-      z-index: 2;
-    }
-
-    .footer small {
-      display: block;
-      color: #A78BFA;
-      font-size: 0.9rem;
-      margin-top: 15px;
-      position: relative;
-      z-index: 2;
-    }
-  </style>
-
-  <!-- Banner -->
-  <div class="banner" align="center">
-    <img src="image.png" alt="Ahmed Moatz Banner" />
-  </div>
-
-  <!-- Header -->
-  <div class="header">
-    <h1>👋 Hi, I'm Ahmed Moatz</h1>
-    <h3>🎓 Front-End Developer | Tech Enthusiast</h3>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=435&lines=Problem+Solver+%F0%9F%A7%A0;Building+Modern+Web+UIs+%F0%9F%92%BB" alt="Typing SVG" />
-  </div>
-
-  <!-- About Me -->
-  <div class="about">
-    <ul>
-      <li>🧑‍🎓 <span>Recent graduate</span> from <b>Faculty of Computers and Artificial Intelligence – Benha University</b></li>
-      <li>💻 <span>Skilled</span> in <b>React.js</b>, <b>Tailwind CSS</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b></li>
-      <li>🌱 <span>Passionate</span> about learning <b>Next.js</b> and advanced front-end patterns</li>
-      <li>⚡ <span>Strong</span> problem-solving and UI/UX design skills</li>
-    </ul>
-  </div>
-
-  <!-- Contact -->
-  <div class="contact">
-    <div class="contact-links">
-      <a href="https://www.linkedin.com/in/ahmed-moatz-a81b4a352">LinkedIn</a>
-      <a href="https://github.com/ahmedmoatz">GitHub</a>
-      <a href="mailto:moatz0742@gmail.com">Email</a>
-      <a href="tel:+201013818318">Phone</a>
-    </div>
-
-    <div class="contact-info">
-      <p>📱 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ahmed-moatz-a81b4a352">linkedin.com/in/ahmed-moatz-a81b4a352</a></p>
-      <p>💻 <b>GitHub:</b> <a href="https://github.com/ahmedmoatz">github.com/ahmedmoatz</a></p>
-      <p>📧 <b>Email:</b> <span>moatz0742@gmail.com</span></p>
-      <p>📞 <b>Phone:</b> <span>+20 1013818318</span></p>
-      <p>📍 <b>Address:</b> <span>Estanha - El-Bagour Center - Menoufia Governorate</span></p>
-      <p>🎂 <b>Birthday:</b> <span>May 15</span></p>
-    </div>
-  </div>
-
-  <!-- Tech Stack -->
-  <div class="tech">
-    <h2>🔧 Tech Stack & Tools</h2>
-    <div class="tech-stack">
-      <div class="tech-item"><span>HTML5</span></div>
-      <div class="tech-item"><span>CSS3</span></div>
-      <div class="tech-item"><span>JavaScript</span></div>
-      <div class="tech-item"><span>React</span></div>
-      <div class="tech-item"><span>Tailwind</span></div>
-      <div class="tech-item"><span>Git</span></div>
-      <div class="tech-item"><span>GitHub</span></div>
-      <div class="tech-item"><span>VS Code</span></div>
-    </div>
-  </div>
-
-  <!-- Footer -->
-  <div class="footer">
-    <h3>Let's Build Something Amazing Together! 🚀</h3>
-    <p>Thank you for visiting my profile! Feel free to reach out for collaborations or just to say hello! 👋</p>
-    <small>© 2024 Ahmed Moatz - Crafted with 💜 and Black</small>
-  </div>
 </body>
