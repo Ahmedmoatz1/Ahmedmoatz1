@@ -1,6 +1,6 @@
 <!-- 🔥 BANNER -->
 <p align="center">
-  <img src="banner.png" alt="Ahmed Moatz Banner" style="width:100%; border-radius:12px;" />
+  <img src="image.png" alt="Ahmed Moatz Banner" style="width:100%; border-radius:102px;" />
 </p>
 
 <!-- PROFILE HEADER -->
@@ -29,32 +29,6 @@
   <img src="https://skillicons.dev/icons?i=bootstrap,nextjs,npm,nodejs" />
 </p>
 
----
-
-## 🔥 My Featured Projects
-<p align="center">
-
-### 🌐 Portfolio Website
-💼 Personal portfolio with project gallery and contact form  
-💡 Tech: React.js, Tailwind CSS, JavaScript  
-🔗 [View Repo](https://github.com/Ahmedmoatz1/portfolio)
-
----
-
-### 🛒 E-commerce Project
-🛍️ Frontend e-commerce app with filtering & cart functionality  
-💡 Tech: HTML, CSS, JavaScript  
-🔗 [View Repo](https://github.com/Ahmedmoatz1/ecommerce-project)
-
----
-
-### 📱 Responsive Web Apps
-📊 Various responsive web applications and UI components  
-💡 Tech: React, CSS, Bootstrap  
-🔗 [View Repo](https://github.com/Ahmedmoatz1/web-apps)
-</p>
-
----
 
 ## 📈 GitHub Stats
 <p align="center">
