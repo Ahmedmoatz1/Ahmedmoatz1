@@ -1,5 +1,9 @@
 <!-- 🔥 BANNER -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header"/>
+</p>
+
+<p align="center">
   <img src="image.png" alt="Ahmed Moatz Banner" style="width:100%; border-radius:102px;" />
 </p>
 
@@ -17,14 +21,15 @@
 
 ---
 
-## 🧠 About Me
-<p align="center">
-  🧑‍🎓 Graduate from <strong>Faculty of Computers and Artificial Intelligence – Benha University</strong><br/>
-  💻 Specialized in <strong>React.js</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>Tailwind CSS</strong><br/>
-  🌱 Currently learning <strong>Advanced React Patterns</strong><br/>
-  ⚡ Passionate about creating responsive and user-friendly web interfaces
-</p>
 
+<!-- 👨‍💻 About -->
+<h2 align="center">👨‍💻 About Me</h2>
+<p align="center">
+✨ Passionate Front-End Developer who loves building interactive and modern UIs using <b>React</b>.<br/>
+💜 Focused on performance, accessibility, and great user experiences.<br/>
+📚 Always learning new technologies to stay ahead.<br/>
+🌍 Based in Egypt | Open for collaboration.
+</p>
 ---
 
 ## 🧰 Tech Stack & Tools
