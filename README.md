@@ -1,5 +1,5 @@
 <!-- 🔥 BANNER -->
-<img src="banner.png" alt="Ahmed Moatz Banner" />
+<img src="image.png" alt="Ahmed Moatz Banner" />
 
 <!-- PROFILE HEADER -->
 <h1>👋 Hi, I'm <span style="color:#0ea5e9;">Ahmed Moatz</span></h1>
