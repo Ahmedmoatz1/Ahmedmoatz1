@@ -1,3 +1,5 @@
+<!-- README.md -->
+
 <body>
   <style>
     body {
@@ -7,6 +9,18 @@
       margin: 0;
       padding: 0;
       line-height: 1.6;
+      animation: fadeIn 1.5s ease-in;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(15px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
     }
 
     h1, h2, h3 {
@@ -26,6 +40,7 @@
       background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%);
       padding: 40px 20px;
       text-align: center;
+      animation: fadeIn 2s ease;
     }
 
     .header h1 {
@@ -51,6 +66,7 @@
       border-radius: 15px;
       border-left: 5px solid #8B5CF6;
       margin: 20px;
+      animation: fadeIn 2s ease;
     }
 
     .about span {
@@ -64,6 +80,7 @@
       padding: 30px;
       border-radius: 15px;
       margin: 20px;
+      animation: fadeIn 2.5s ease;
     }
 
     .contact-links {
@@ -107,6 +124,7 @@
       border-radius: 15px;
       margin: 20px;
       text-align: center;
+      animation: fadeIn 3s ease;
     }
 
     .tech-stack {
@@ -146,6 +164,7 @@
       margin-top: 40px;
       position: relative;
       overflow: hidden;
+      animation: fadeIn 3.5s ease;
     }
 
     .footer h3 {
