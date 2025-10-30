@@ -1,30 +1,22 @@
 <body style="background:#000; color:#fff; font-family:Poppins, sans-serif; text-align:center; line-height:1.6; margin:0;">
 
 <!-- 🔥 BANNER -->
-<div align="center" style="
-  width: 250px; 
-  height: 250px; 
-  border-radius: 50%; 
-  border: 6px solid #8B5CF6; 
-  box-shadow: 0 0 20px #8B5CF6; 
-  
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  overflow: hidden;
-  position: relative;
+<img src="image.png" alt="Ahmed Moatz Banner" style="
+  width:250px;
+  height:250px;
+  border-radius:50%;
+  border:6px solid #8B5CF6;
+  box-shadow:0 0 20px #8B5CF6;
+  animation:borderGlow 6s infinite alternate;
+  transition:all 0.4s ease-in-out;
+  display:block;
+  object-fit:cover;
 ">
-
-  <img src='image.png' alt='Ahmed Moatz ' style='width:100%; height:100%; border-radius:50%; object-fit:cover;' />
-
-  
-
-</div>
 
 
 <!-- PROFILE HEADER -->
 <h1 style="color:#0ea5e9; margin-top:20px;">👋 Hey, I'm Ahmed Moatz</h1>
-<h3 style="color:#ccc;">💻 Front-End Developer | AI & Data Enthusiast</h3>
+<h3 style="color:#ccc;">💻 Front-End Developer</h3>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=435&lines=Crafting+Modern+UIs+⚡;Passionate+About+AI+%26+Innovation+🧠" alt="Typing SVG" />
