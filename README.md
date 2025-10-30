@@ -15,7 +15,7 @@
   position: relative;
 ">
 
-  <img src='image.png' alt='Ahmed Moatz Banner' style='width:100%; height:100%; border-radius:50%; object-fit:cover;' />
+  <img src='image.png' alt='Ahmed Moatz ' style='width:100%; height:100%; border-radius:50%; object-fit:cover;' />
 
   
 
