@@ -1,80 +1,52 @@
+<!-- 🔥 BANNER -->
+<img src="banner.png" alt="Ahmed Moatz Banner" />
 
-<h1 align="center">🌌 Ahmed Moatz Mahmoud Mahmed</h1>
+<!-- PROFILE HEADER -->
+<h1>👋 Hi, I'm <span style="color:#0ea5e9;">Ahmed Moatz</span></h1>
+<h3>🎓 Front-End Developer | Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/avatar.png" width="150" style="border-radius: 50%;" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=435&lines=Problem+Solver+%F0%9F%A7%A0;Building+Modern+Web+UIs+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <b>Creative Front-End Developer & AI Enthusiast</b>
+---
+
+## 🧠 About Me
+
+- 🧑‍🎓 Recent graduate from **Faculty of Computers and Artificial Intelligence – Benha University**
+- 💻 Skilled in **React.js**, **Tailwind CSS**, **HTML**, **CSS**, **JavaScript**
+- 🌱 Passionate about learning **Next.js** and advanced front-end patterns
+- ⚡ Strong problem-solving and UI/UX design skills
+
+---
+
+## 📇 Contact Information
+
+<p>
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+
+- **LinkedIn:** [linkedin.com/in/ahmed-moatz-a81b4a352](https://www.linkedin.com/in/ahmed-moatz-a81b4a352)  
+- **GitHub:** [github.com/ahmedmoatz](https://github.com/ahmedmoatz)  
+- **Email:** moatz0742@gmail.com  
+- **Phone:** +20 1013818318  
+- **Address:** Estanha - El-Bagour Center - Menoufia Governorate  
+- **Birthday:** May 15
+
+---
+
+## 🔧 Tech Stack & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 💻 Passionate about building modern web applications with **React, Tailwind, and Vite**
-- 🧠 Exploring **AI, Deep Learning**, and **Optimization Algorithms**
-- 🌍 Always learning and pushing boundaries in **front-end design & performance**
-
----
-
-### 🧰 Tech Stack
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-
-</div>
-
----
-
-### 🌈 Animation Magic
-```html
-<style>
-@keyframes colorShift {
-  0% { color: #a855f7; }
-  25% { color: #9333ea; }
-  50% { color: #6b21a8; }
-  75% { color: #3b0764; }
-  100% { color: #a855f7; }
-}
-
-h1 {
-  animation: colorShift 4s infinite alternate ease-in-out;
-}
-
-img {
-  animation: pulse 2s infinite ease-in-out;
-}
-
-@keyframes pulse {
-  0% { transform: scale(1); filter: brightness(1); }
-  50% { transform: scale(1.05); filter: brightness(1.2); }
-  100% { transform: scale(1); filter: brightness(1); }
-}
-</style>
-```
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmoatz&show_icons=true&theme=tokyonight)
-
-</div>
-
----
-
-### 📫 Connect With Me
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedmoatz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmoatz@gmail.com)
-
-</div>
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer"/>
+</p>
