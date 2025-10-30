@@ -1,7 +1,46 @@
 <body style="background:#000; color:#fff; font-family:Poppins, sans-serif; text-align:center; line-height:1.6; margin:0;">
 
 <!-- 🔥 BANNER -->
-<img src="banner.png" alt="Ahmed Moatz Banner" style="width:100%; border-radius:12px;"/>
+<div align="center" style="
+  width: 250px; 
+  height: 250px; 
+  border-radius: 50%; 
+  border: 6px solid #8B5CF6; 
+  box-shadow: 0 0 20px #8B5CF6; 
+  animation: borderGlow 6s infinite alternate;
+  transition: all 0.4s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+">
+
+  <img src='image.png' alt='Ahmed Moatz Banner' style='width:100%; height:100%; border-radius:50%; object-fit:cover;' />
+
+  <style>
+    @keyframes borderGlow {
+      0% {
+        border-color: #8B5CF6; /* Purple */
+        box-shadow: 0 0 25px #8B5CF6;
+      }
+      33% {
+        border-color: #FF0000; /* Red */
+        box-shadow: 0 0 25px #FF0000;
+      }
+      66% {
+        border-color: #111; /* Black */
+        box-shadow: 0 0 25px #111;
+      }
+      100% {
+        border-color: #8B5CF6; /* Back to Purple */
+        box-shadow: 0 0 25px #8B5CF6;
+      }
+    }
+  </style>
+
+</div>
+
 
 <!-- PROFILE HEADER -->
 <h1 style="color:#0ea5e9; margin-top:20px;">👋 Hey, I'm Ahmed Moatz</h1>
