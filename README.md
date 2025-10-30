@@ -1,134 +1,41 @@
-<!-- 🔥 BANNER -->
-<div align="center">
-  <img src="banner.png" alt="Ahmed Moatz Banner" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 0;"/>
-</div>
+## Hi there! 👋
 
-<!-- PROFILE HEADER -->
-<div align="center" style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%); padding: 40px 20px; margin: 0;">
-  <h1 style="font-size: 2.5rem; margin-bottom: 10px; background: linear-gradient(45deg, #8B5CF6, #A78BFA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
-    👋 Hello, I'm Ahmed Moatz
-  </h1>
-  <h3 style="font-size: 1.3rem; color: #A78BFA; margin-bottom: 20px; font-weight: 300;">
-    🎓 Front-End Developer | Tech Enthusiast
-  </h3>
-  
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=435&lines=Problem+Solver+%F0%9F%A7%A0;Modern+Web+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8" alt="Typing SVG" />
-</div>
+I'm Ahmed Moatz, a passionate developer constantly exploring the vast world of programming. I'm excited about building beautiful and functional applications!
 
-<br />
+## About Me
 
-## 🧠 About Me
+I am a software developer with a keen interest in web technologies, particularly CSS and Java. I enjoy working on projects that challenge my skills and help me grow. While I don't have a specific location or company listed, I am always open to collaboration and learning opportunities!
 
-<div style="background: #0F0F0F; padding: 25px; border-radius: 10px; border-left: 4px solid #8B5CF6; margin: 20px 0;">
-  
-- 🎓 **Recent Graduate** from Faculty of Computers and Artificial Intelligence - Benha University
-- 💻 **Skilled in** React.js, JavaScript, HTML5, CSS3, Tailwind CSS
-- 🌱 **Currently Learning** Next.js and advanced frontend patterns
-- ⚡ **Passionate** about creating responsive and user-friendly web interfaces
-- 🔧 **Strong** problem-solving and UI/UX design skills
+## Skills & Technologies
 
-</div>
+**Frontend:** CSS, HTML, React, Tailwind, Bootstrap  
+**Tools:** Git, GitHub, VS Code  
+**Languages:** JavaScript, Java
 
-## 📞 Contact Information
+## GitHub Stats
 
-<div style="background: #000000; padding: 25px; border-radius: 10px; margin: 20px 0; border: 1px solid #2D2D2D;">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedmoatz1&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedmoatz1&layout=compact&theme=radical&hide_border=true)
 
-<div align="center" style="margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/ahmed-moatz-a81b4a352" style="display: inline-block; margin: 5px; padding: 10px 18px; background: linear-gradient(45deg, #8B5CF6, #7C3AED); color: white; text-decoration: none; border-radius: 20px; font-weight: 600; font-size: 14px;">
-    💼 LinkedIn
-  </a>
-  <a href="https://github.com/ahmedmoatz" style="display: inline-block; margin: 5px; padding: 10px 18px; background: linear-gradient(45deg, #8B5CF6, #7C3AED); color: white; text-decoration: none; border-radius: 20px; font-weight: 600; font-size: 14px;">
-    🔗 GitHub
-  </a>
-  <a href="mailto:moatz0742@gmail.com" style="display: inline-block; margin: 5px; padding: 10px 18px; background: linear-gradient(45deg, #8B5CF6, #7C3AED); color: white; text-decoration: none; border-radius: 20px; font-weight: 600; font-size: 14px;">
-    📧 Email
-  </a>
-  <a href="tel:+201013818318" style="display: inline-block; margin: 5px; padding: 10px 18px; background: linear-gradient(45deg, #8B5CF6, #7C3AED); color: white; text-decoration: none; border-radius: 20px; font-weight: 600; font-size: 14px;">
-    📞 Phone
-  </a>
-</div>
+## Recent Activity
 
-<div style="background: #1a1a1a; padding: 20px; border-radius: 8px; border: 1px solid #333; font-size: 14px;">
+<!--START_SECTION:activity-->
+- 🔄 Pushed updates to [Ahmedmoatz1](https://github.com/Ahmedmoatz1/Ahmedmoatz1)
+- 🔄 Updated [css-assignments-elzero.org](https://github.com/Ahmedmoatz1/css-assignments-elzero.org)
+- 🔄 Contributed to [javaprocessimage1](https://github.com/Ahmedmoatz1/javaprocessimage1)
+<!--END_SECTION:activity-->
 
-- **📍 Location:** Menoufia, Egypt
-- **📧 Email:** moatz0742@gmail.com
-- **📱 Phone:** +20 1013818318
-- **🎂 Birthday:** May 15
-- **🔗 LinkedIn:** [ahmed-moatz-a81b4a352](https://www.linkedin.com/in/ahmed-moatz-a81b4a352)
-- **💻 GitHub:** [ahmedmoatz](https://github.com/ahmedmoatz)
+## Connect with Me
 
-</div>
-
-</div>
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center" style="background: #0F0F0F; padding: 30px; border-radius: 10px; margin: 20px 0;">
-
-### Frontend Technologies
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin: 20px 0;">
-  <div style="background: #000000; padding: 12px 20px; border-radius: 8px; border: 1px solid #8B5CF6; text-align: center;">
-    <strong style="color: #8B5CF6;">HTML5</strong>
-  </div>
-  <div style="background: #000000; padding: 12px 20px; border-radius: 8px; border: 1px solid #8B5CF6; text-align: center;">
-    <strong style="color: #8B5CF6;">CSS3</strong>
-  </div>
-  <div style="background: #000000; padding: 12px 20px; border-radius: 8px; border: 1px solid #8B5CF6; text-align: center;">
-    <strong style="color: #8B5CF6;">JavaScript</strong>
-  </div>
-  <div style="background: #000000; padding: 12px 20px; border-radius: 8px; border: 1px solid #8B5CF6; text-align: center;">
-    <strong style="color: #8B5CF6;">React</strong>
-  </div>
-  <div style="background: #000000; padding: 12px 20px; border-radius: 8px; border: 1px solid #8B5CF6; text-align: center;">
-    <strong style="color: #8B5CF6;">Tailwind</strong>
-  </div>
-</div>
-
-### Development Tools
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin: 20px 0;">
-  <div style="background: #000000; padding: 12px 20px; border-radius: 8px; border: 1px solid #8B5CF6; text-align: center;">
-    <strong style="color: #8B5CF6;">Git</strong>
-  </div>
-  <div style="background: #000000; padding: 12px 20px; border-radius: 8px; border: 1px solid #8B5CF6; text-align: center;">
-    <strong style="color: #8B5CF6;">GitHub</strong>
-  </div>
-  <div style="background: #000000; padding: 12px 20px; border-radius: 8px; border: 1px solid #8B5CF6; text-align: center;">
-    <strong style="color: #8B5CF6;">VS Code</strong>
-  </div>
-  <div style="background: #000000; padding: 12px 20px; border-radius: 8px; border: 1px solid #8B5CF6; text-align: center;">
-    <strong style="color: #8B5CF6;">Figma</strong>
-  </div>
-</div>
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center" style="background: #000000; padding: 25px; border-radius: 10px; margin: 20px 0; border: 1px solid #2D2D2D;">
-
-<a href="https://github.com/ahmedmoatz">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedmoatz&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=8B5CF6&icon_color=8B5CF6" />
-</a>
-<a href="https://github.com/ahmedmoatz">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmoatz&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=8B5CF6" />
-</a>
-
-</div>
+- 📧 **Email:** moatz0742@gmail.com
+- 💼 **LinkedIn:** [Ahmed Moatz](https://www.linkedin.com/in/ahmed-moatz-a81b4a352)
+- 📱 **Phone:** +20 1013818318
+- 🌐 **GitHub:** [Ahmedmoatz1](https://github.com/Ahmedmoatz1)
 
 ---
 
-<div align="center" style="background: linear-gradient(45deg, #000000 0%, #8B5CF6 100%); padding: 30px 20px; margin-top: 30px;">
+<div align="center">
 
-<h3 style="color: white; font-size: 1.2rem; margin-bottom: 15px;">
-  🚀 Let's Build Something Amazing Together!
-</h3>
-
-<p style="color: #E0E0E0; font-size: 0.9rem; margin-bottom: 10px;">
-  Thanks for visiting my profile! Feel free to reach out for collaborations
-</p>
-
-<p style="color: #A78BFA; font-size: 0.8rem; font-weight: bold;">
-  © 2024 Ahmed Moatz • Crafted with 💜
-</p>
+### 🚀 Let's Build Something Amazing Together!
 
 </div>
