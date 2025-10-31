@@ -76,12 +76,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-01013818318-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   
-  <!-- GitHub -->
-  <a href="https://github.com/Ahmedmoatz1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Ahmedmoatz1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
+  
 ---
 
 <!-- FOOTER -->
