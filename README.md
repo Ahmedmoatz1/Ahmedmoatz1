@@ -55,32 +55,30 @@
 ---
 ## Contact Me
 
-
-
 <p align="center">
   <!-- Email -->
   <a href="mailto:moatz0742@gmail.com">
-    <img src="https://img.shields.io/badge/Email-moatz0742@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-moatz0742@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ahmed-moatz-a81b4a352" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmed_Moatz-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed_Moatz-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   
   <!-- Facebook -->
   <a href="https://www.facebook.com/share/17Rj8syh2i/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-@AhmedMoatz-8B5CF6?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-@AhmedMoatz-8B5CF6?style=for-the-badge&logo=facebook&logoColor=black" alt="Facebook" />
   </a>
   
   <!-- WhatsApp -->
   <a href="https://wa.me/201013818318?text=مرحبًا%20أحمد،%20أنا%20من%20موقعك%20الرائع!" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-01013818318-8B5CF6?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-01013818318-8B5CF6?style=for-the-badge&logo=whatsapp&logoColor=black" alt="WhatsApp" />
   </a>
   
   <!-- GitHub -->
   <a href="https://github.com/Ahmedmoatz1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Ahmedmoatz1-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Ahmedmoatz1-8B5CF6?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
   </a>
 </p>
 ---
